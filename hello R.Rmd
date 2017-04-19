@@ -28,6 +28,9 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
-#**read me**
+#**read me**  
 **read me**
 
+[visit TAIR]{www.arabidopsis.org}
+
+![pat pat](https://i.ytimg.com/vi/3ggIHfwkIWM/maxresdefault.jpg)
